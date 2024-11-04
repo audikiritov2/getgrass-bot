@@ -1,0 +1,2 @@
+http://mikado-vpnjantit.com:mikado@usa2.vpnjantit.com:1723
+socks5://mikado-vpnjantit.com:mikado@usa2.vpnjantit.com:1723
